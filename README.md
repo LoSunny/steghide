@@ -32,3 +32,5 @@ Don't panic, when the build fails while executing libtool. Just type
 ```
 
 and, Heureka!, `steghide` will be generated in the folder src.
+
+For further info please consult README.
